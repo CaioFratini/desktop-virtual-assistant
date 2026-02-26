@@ -67,7 +67,7 @@ Install dependencies:  pip install -r requirements.txt
 Create a `.env` file in the project root:
 
 SPOTIFY_CLIENT_ID=your_client_id <br>
-SPOTIFY_CLIENT_SECRET=your_client_secret
+SPOTIFY_CLIENT_SECRET=your_client_secret <br>
 SPOTIFY_REDIRECT_URI=http://127.0.0.1:8888/callback
 
 You must create a Spotify application at:
